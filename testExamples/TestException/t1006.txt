@@ -1,0 +1,6 @@
+1006 3 3 3 2 -1 InvalidIdentifierCharacterException
+a1
+b1
+a2
+b2
+甲3

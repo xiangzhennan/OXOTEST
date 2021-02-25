@@ -1,0 +1,6 @@
+1005 3 3 3 2 -1 InvalidIdentifierLengthException
+a1
+b1
+a2
+b2
+a三1

@@ -1,0 +1,6 @@
+out/
+.idea/
+OXOExceptions/
+OXOController.java
+OXOModel.java
+*.rar
