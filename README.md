@@ -30,7 +30,7 @@ for test OXO coursework, with 19 test examples(till 25/2/2021)
    >- Format of body :normally:[a-iA-I][1-9]
    >- for customize test example: always put one space for each string, no space at the end of the line
 ## donate if you find it useful(1RMB for each report)
-   ><img src="img_1.png" alt="img_1.png" style="zoom: 67%;" /><img src="img_2.png" alt="img_2.png" style="zoom: 33%;" />
+   ><img src="./img_1.png" style="zoom: 67%;" /><img src="./img_2.png" style="zoom: 33%;" />
 ## possible extension
    >1. shell script can be used if there are a lot of code to test
    >2. reflection may be useful for test .class file
